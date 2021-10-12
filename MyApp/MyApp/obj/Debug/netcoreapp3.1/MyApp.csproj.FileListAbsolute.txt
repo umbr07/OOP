@@ -1,0 +1,26 @@
+D:\Новая папка\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.exe
+D:\Новая папка\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.deps.json
+D:\Новая папка\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.json
+D:\Новая папка\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.dev.json
+D:\Новая папка\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.dll
+D:\Новая папка\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.pdb
+D:\Новая папка\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csprojAssemblyReference.cache
+D:\Новая папка\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfoInputs.cache
+D:\Новая папка\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfo.cs
+D:\Новая папка\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CoreCompileInputs.cache
+D:\Новая папка\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.dll
+D:\Новая папка\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.pdb
+D:\Новая папка\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.genruntimeconfig.cache
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.exe
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.deps.json
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.json
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.dev.json
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.dll
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.pdb
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csprojAssemblyReference.cache
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfoInputs.cache
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfo.cs
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.dll
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.pdb
+D:\Учёба\2 курс\1 семестр\ООП\Лаба 2\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.genruntimeconfig.cache
